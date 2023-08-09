@@ -1,0 +1,3 @@
+- Append alle ord
+- Siftdown
+- Sorter alfabetisk
